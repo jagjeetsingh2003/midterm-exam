@@ -1,0 +1,32 @@
+nav{
+    padding-left: 50px;
+    padding-right: 50px;
+    align-items: center;
+}
+footer nav ul li a img{
+    height: 45px;
+    width: auto;
+    float: left;
+    padding-left: 120px;
+    padding-right: 120px;
+    background-color: yellow;
+}
+footer p{
+    padding-top: 100px;
+    text-align: center;
+    
+}
+footer{
+    background-color: yellow;
+    padding-top: 30px;
+    align-items: center;
+}
+body div img{
+    width:300px;
+    float:left;
+    padding-right: 30px;
+}
+.art img{
+    width: 250px;
+    height: auto;
+}
